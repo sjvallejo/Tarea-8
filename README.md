@@ -1,4 +1,9 @@
-# inf-tarea8
+# informe Tarea 8
+
+Nombre: Steveen Vallejo
+NRC:10067
+
+
 ***1. OBJETIVOS***
 
 _Entender el uso y aplicación del sistema de números complejos
@@ -91,7 +96,7 @@ _Analizar circuitos RL y RC
 
 ***4)Video***
 
-https://youtu.be/mMWbh9cywcQ
+https://www.youtube.com/watch?v=mMWbh65kfo
 
 ***5.Conclusiones***
 
